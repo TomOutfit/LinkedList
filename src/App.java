@@ -1,5 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("FunnyCode_NguyenBinhAn");
+        System.out.println("Hahaha");
     }
 }
